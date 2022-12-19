@@ -1,0 +1,1 @@
+rootProject.name = "com.mbcoding.ktor-chat"
